@@ -1,0 +1,40 @@
+/* ADD YOUR STYLES HERE */
+.instruction-answer1 table tr td {
+	padding-right: 30px;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	padding-left: 5px;
+	border-bottom: 1px solid #999999;
+}
+.instruction-answer1 table tr:last-child td {
+	border-bottom: 0;
+}
+
+.instruction-answer1 {
+	margin-bottom: 30px;
+}
+
+
+.instruction-answer2 table thead tr th {
+	padding-right: 30px;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	padding-left: 5px;
+	border-bottom: 1px solid #999999;
+}
+
+.instruction-answer2 table tbody tr td {
+	padding-right: 30px;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	padding-left: 5px;
+	border-bottom: 1px solid #999999;
+}
+
+.instruction-answer2 table tbody tr:last-child td {
+	border-bottom:0;
+}
+
+.instruction-answer3 table tbody tr td div.num {
+	font-size: 40px;
+}
