@@ -37,4 +37,44 @@
 
 .instruction-answer3 table tbody tr td div.num {
 	font-size: 40px;
+	font-weight: bold;
+}
+
+.instruction-answer3 table tbody tr td div.lText {
+	font-size: 15px;
+	color: gray;
+} 
+
+.instruction-answer3 table tbody tr td{
+	padding: 10px 0 10px 0;
+}
+
+.instruction-answer3 table {
+	border-top: 1px solid #999999;
+	border-bottom: 1px solid #999999;
+}
+
+.instruction-answer3 table tbody tr td div.num, div.lText {
+	text-align: center;
+	margin: 10px;
+}
+
+ .instruction-answer4 table tr td div {
+	background-color: rgb(0,140,255);
+	background-size: 100% 50px;
+	color: rgb(255,255,255);
+
+}
+
+.instruction-answer4 table {
+	display:table;
+  	table-layout: fixed;   
+  
+  	width:60%;
+  	max-width:700px;
+  	height:200px;
+  	margin:0 auto;
+  	background-size: 100% 50px;
+  	/*background-position: left top;*/
+
 }
