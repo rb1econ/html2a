@@ -148,3 +148,7 @@
 	padding-right: 10px;
 	margin-bottom: 40px;
 }
+.little {
+	position: relative;
+	left: 60px;
+}
